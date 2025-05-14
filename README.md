@@ -63,3 +63,11 @@ You can run multiple clients at once to simulate real-time chat between users.
 ```
 
 ---
+
+## 📄 License
+This project was completed as part of academic coursework and is provided for educational purposes only.
+
+---
+
+## 📫 Contact
+For questions or feedback, feel free to reach out via GitHub.
